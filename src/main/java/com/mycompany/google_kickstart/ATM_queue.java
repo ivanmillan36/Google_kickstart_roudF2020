@@ -15,7 +15,7 @@ import java.util.Scanner;
  * @author ivanmillan36
  */
 @SuppressWarnings("unchecked")
-public class RondaH_2019 {
+public class ATM_queue {
     public static void main(String[] args) {
         int T, N, X;
         
